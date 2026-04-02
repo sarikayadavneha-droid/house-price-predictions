@@ -4,7 +4,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 # Step 2: Load Dataset
 df = pd.read_csv("housing.csv")
